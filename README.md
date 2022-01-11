@@ -1,6 +1,6 @@
 # App Drink Water
 
- ## Aplicativo que auxilia no monitoramento do consumo de água por meio do registro de ingestão e o estabelecimento de metas
+ ### Aplicativo que auxilia no monitoramento do consumo de água por meio do registro de ingestão e o estabelecimento de metas
  
  Para executar basta seguir os seguintes passos:
  * No diretório raiz, abra o terminal e execute o comando "npm i" para instalar as dependências
